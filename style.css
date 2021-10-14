@@ -1,10 +1,10 @@
 #top-banner {
   color : rgb(255,255,255);
-    font-size: 30px;
+    font-size: 32px;
 
   background-color: rgba(30,30,30,0.7);
   overflow: auto;
-  text-align: center;
+  text-align: left;
 }
 
 #top-banner-img{
